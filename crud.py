@@ -2,7 +2,7 @@
 
 class Crud:
     def __init__(self):
-        print("Handled CRUD Operations.")
+        print("Handles CRUD Operations.")
     
     def create(self):
         print("Record Created.")
